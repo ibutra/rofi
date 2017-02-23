@@ -1,0 +1,2 @@
+#!/bin/bash
+rofi -combi-modi window,drun -show combi -kb-accept-entry Return,KP_Enter -kb-row-down Control+j,Down -kb-remove-to-eol Control+Shift+k -kb-row-up Control+k,Up -modi combi -color-window "#313742, #313742, #000000" -color-normal "#313742, #b0b9c6, #414a59, #5294e2, #f4fafe" -color-active "#313742, #ffffff, #414a59, #5294e2, #ffffff" -color-urgent "#313742, #cc575d, #414a59, #cc575d, #f4fafe"
